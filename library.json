@@ -1,0 +1,23 @@
+{
+  "name": "udpDebugPrints",
+  "version": "0.0.1",
+  "keywords": "flooding mesh, espnow, mesh",
+  "description": "ESPNOW broadcast library with flooding mesh and AES support.",
+  "examples": "examples/*/*/*.ino",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arttupii/espNowAESBroadcast"
+  },
+  "authors": [
+    {
+      "name": "arttupii",
+      "email": "arttupii@gmail.com",
+      "url": "https://github.com/arttupii/espNowAESBroadcast",
+      "maintainer": true
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": [
+    "*"
+  ]
+}
